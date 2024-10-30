@@ -1,6 +1,6 @@
 
 
-# Spring Boot Documentation
+# Spring Boot Personal Notes
 
 ![image](https://github.com/user-attachments/assets/c93b8dd3-ea49-4e83-8d24-04170118cfea)
 
